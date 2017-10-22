@@ -1,0 +1,12 @@
+uint32 id
+uint8 type
+uint8 hostCategory
+uint16 spare0
+uint32 hostId
+string name
+float32[2] fovHV
+float32[2] clipNF
+rdb_coord pos
+rdb_coord originCoordSys
+float32[2] fovOffHV
+int32[2] spare

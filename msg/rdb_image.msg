@@ -1,0 +1,9 @@
+uint32 id
+uint16 width
+uint16 height
+uint8 pixelSize
+uint8 pixelFormat
+uint16 cameraId
+uint32 imgSize
+uint8[4] color
+uint32[3] spare1

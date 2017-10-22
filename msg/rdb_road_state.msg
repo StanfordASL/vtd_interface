@@ -1,0 +1,9 @@
+uint32 playerId
+int8 wheelId
+uint8 spare0
+uint16 spare1
+uint32 roadId
+float32 defaultSpeed
+float32 waterLevel
+uint32 eventMask
+int32[12] spare2

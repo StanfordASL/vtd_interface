@@ -1,0 +1,10 @@
+uint32 playerId
+uint8 id
+uint8 flags
+uint8[2] spare0
+float32 radiusStatic
+float32 springCompression
+float32 rotAngle
+float32 slip
+float32 steeringAngle
+uint32[4] spare1

@@ -1,0 +1,13 @@
+uint32 playerId
+uint16 flags
+uint8 posType
+int8 dir
+uint32 roadId
+float64 initialRoadDeltaS
+float32 targetRoadT
+float32 speedTgtS
+float32 minAccelS
+float32 maxAccelS
+float32 accelTgt
+uint32 validityFlags
+uint32[4] spare

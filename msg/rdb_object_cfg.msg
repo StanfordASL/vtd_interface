@@ -1,0 +1,10 @@
+uint32 id
+uint8 category
+uint8 type
+int16 modelId
+string name
+string modelName
+string fileName
+uint16 flags
+uint16 spare0
+uint32 spare1

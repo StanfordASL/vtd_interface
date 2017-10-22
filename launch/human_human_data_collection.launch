@@ -1,0 +1,8 @@
+<launch>
+	<node pkg="ros_vtd" name="republisher" type="republish_node.py" output="screen"></node>
+	<node pkg="ros_vtd" name="sound_node" type="CarSoundNode.py" output="screen"></node>
+	<node pkg="ros_vtd" name="speedo1" type="SpeedoMeter.py" output="screen" args="1 600 1010"></node>
+	<node pkg="ros_vtd" name="speedo2" type="SpeedoMeter.py" output="screen" args="2 600 1015">
+		<env name="DISPLAY" value=":0.1"/>
+	</node>
+</launch>

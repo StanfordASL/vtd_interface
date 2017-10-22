@@ -1,0 +1,15 @@
+uint32 id
+uint32 playerId
+float32 roadDist
+rdb_coord pos
+int32 type
+int32 subType
+float32 value
+uint32 state
+int8 readability
+int8 occlusion
+uint16 spare0
+uint32 addOnId
+int8 minLane
+int8 maxLane
+uint16 spare

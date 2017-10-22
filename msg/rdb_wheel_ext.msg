@@ -1,0 +1,10 @@
+float32 vAngular
+float32 forceZ
+float32 forceLat
+float32 forceLong
+float32[3] forceTireWheelXYZ
+float32 radiusDynamic
+float32 brakePressure
+float32 torqueDriveShaft
+float32 damperSpeed
+uint32[4] spare2

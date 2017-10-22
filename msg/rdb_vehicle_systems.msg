@@ -1,0 +1,11 @@
+uint32 playerId
+uint32 lightMask
+float32 steering
+float32 steeringWheelTorque
+uint8 accMask
+uint8 accSpeed
+uint8 batteryState
+int8 batteryRate
+uint16 displayLightMask
+uint16 fuelGauge
+uint32[5] spare

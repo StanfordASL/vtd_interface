@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>vtd_interface</name>
+  <version>0.0.0</version>
+  <description>The vtd_interface package</description>
+  <maintainer email="schmrlng@stanford.edu">Ed Schmerling</maintainer>
+  <author email="w.vollprecht@gmail.com">Wolf Vollprecht</author>
+  <license>MIT</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+
+</package>

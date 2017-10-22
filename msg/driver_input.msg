@@ -1,0 +1,3 @@
+uint32 player_id
+float32 accel_tgt
+float32 steering_tgt

@@ -1,0 +1,16 @@
+uint16 roadId
+int8 id
+uint8 neighborMask
+int8 leftLaneId
+int8 rightLaneId
+uint8 borderType
+uint8 material
+uint16 status
+uint16 type
+float32 width
+float64 curvVert
+float64 curvVertDot
+float64 curvHor
+float64 curvHorDot
+uint32 playerId
+uint32 spare1

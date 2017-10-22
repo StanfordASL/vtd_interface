@@ -1,0 +1,2 @@
+rdb_light_source_base base
+rdb_light_source_ext ext

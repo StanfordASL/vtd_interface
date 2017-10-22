@@ -1,0 +1,15 @@
+float64 simTime
+uint32 playerId
+uint16 roadId
+int8 laneId
+uint8 flags
+float32 roadS
+float32 roadT
+float32 laneOffset
+float32 hdgRel
+float32 pitchRel
+float32 rollRel
+uint8 roadType
+uint8 spare1
+uint16 spare2
+float32 pathS

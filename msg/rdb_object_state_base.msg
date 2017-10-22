@@ -1,0 +1,10 @@
+uint32 id
+uint8 category
+uint8 type
+uint16 visMask
+string name
+rdb_geometry geo
+rdb_coord pos
+uint32 parent
+uint16 cfgFlags
+int16 cfgModelId

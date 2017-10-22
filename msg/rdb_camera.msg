@@ -1,0 +1,12 @@
+uint16 id
+uint16 width
+uint16 height
+uint16 spare0
+float32 clipNear
+float32 clipFar
+float32 focalX
+float32 focalY
+float32 principalX
+float32 principalY
+rdb_coord pos
+uint32[4] spare1

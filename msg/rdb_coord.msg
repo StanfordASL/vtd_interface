@@ -1,0 +1,9 @@
+float64 x
+float64 y
+float64 z
+float32 h
+float32 p
+float32 r
+uint8 flags
+uint8 type
+uint16 system

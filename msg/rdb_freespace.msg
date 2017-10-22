@@ -1,0 +1,11 @@
+uint32 playerId
+float32 distance
+float32 angleLeft
+float32 angleRight
+float32 distanceLeft
+float32 distanceRight
+uint8 stateLeft
+uint8 stateRight
+uint8 stateDistance
+uint8 noVisibleObjects
+uint32[3] spare1

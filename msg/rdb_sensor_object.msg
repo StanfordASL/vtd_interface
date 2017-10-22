@@ -1,0 +1,10 @@
+uint8 category
+uint8 type
+uint16 flags
+uint32 id
+uint32 sensorId
+float64 dist
+rdb_coord sensorPos
+int8 occlusion
+uint8[3] spare0
+uint32[3] spare

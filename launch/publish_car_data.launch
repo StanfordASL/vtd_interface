@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="ros_vtd" name="republisher" type="republish_node.py" output="screen"></node>
+</launch>
